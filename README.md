@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> حبيبي خذني في الليل الطويل
+> ونار الشوق تكوي كل قلبي
+> عيونك تسحر القلب العليل
+> وضمك حلم يمحي كل ذنبي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
