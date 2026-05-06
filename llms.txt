@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-wesh-el-tany/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Obtain a Music License for El Wesh El Tany](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's El Wesh El Tany](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
