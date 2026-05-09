@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Wesh El Tany
+
+This log tracks the cryptographic history and versioning for the song **El Wesh El Tany** (el-wesh-el-tany).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:21:20.136201 | `v1` | `8be85b414c93b01f61491bffa8d8dbb13b4d41ba85a94f3034c893f75d0bcbd2` | `1983db2c8871818c2cb0788ff7dc6a8e6e1b00f6f1a9764e9bc82791842c99b8` | `2026-05-09_el-wesh-el-tany-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
